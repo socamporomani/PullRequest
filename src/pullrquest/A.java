@@ -10,6 +10,6 @@ package pullrquest;
  * @author finfanterodal
  */
 public class A {
-//Como estamos SErgio
-    //hoy tengo mucho sueño
+//Como estás Sergio
+    //hoy temucho sueño
 }
