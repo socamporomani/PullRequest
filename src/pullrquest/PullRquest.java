@@ -16,7 +16,7 @@ public class PullRquest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //HOLA SERGIO
+        //HOLA SERGIO, hola
         //ESTYO YA ESTÁ BIEN
         // me alegro mucho
     }
