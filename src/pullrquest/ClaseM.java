@@ -10,5 +10,6 @@ package pullrquest;
  * @author finfanterodal
  */
 public class ClaseM {
-    
+    public void getnothing(){       
+    }
 }
